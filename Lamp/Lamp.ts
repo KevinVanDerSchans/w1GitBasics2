@@ -8,5 +8,5 @@ class Lamp {
   public turnOff(): void {
     this.isOn = false;
   }
-  
+  private hasBubble: boolean;
 }

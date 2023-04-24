@@ -8,4 +8,5 @@ class Lamp {
   public turnOff(): void {
     this.isOn = false;
   }
+  
 }
